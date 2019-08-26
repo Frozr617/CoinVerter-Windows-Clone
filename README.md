@@ -1,2 +1,2 @@
 # CoinVerter-Windows-Clone
-Mac OS money converter vlone for windows and linux
+##Mac OS money converter clone for windows and linux
